@@ -64,6 +64,7 @@ void loop()
   
  distance =  pulseIn(echo, HIGH);
  distance = distance / 58;
+  delay(3000);
   
   if(distance >= 3 && distance < 110)
    vermelhoLed(); 
@@ -77,7 +78,7 @@ void loop()
  Serial.print("distance: ");
  Serial.print(distance); 
  Serial.println(" cm");
-
+	
 }
 //conectar cabos do Lcd
 //fazer a conexão entre arduino1 e arduino2
