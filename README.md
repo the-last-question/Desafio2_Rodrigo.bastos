@@ -4,6 +4,6 @@
 
 1. Sensor ultrasonico (+protoboard & +arduino)
 
-  <img src="![image](https://user-images.githubusercontent.com/99812296/165870611-ef182c59-08e7-4349-9a30-1d3bc741ba86.png)" alt="drawing" width="500"/>
+  <img src="file:///C:/Users/digof/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Captura%20de%20tela%202022-04-28%20221239.png" alt="drawing" width="500"/>
  
 2. Placa de LCD (+protoboard & +arduino)
