@@ -1,9 +1,16 @@
- DESAFIO 02 - TROCANDO MENSAGENS
 
-## - **Componentes**
+ # **DESAFIO 02 - TROCANDO MENSAGENS**
+ 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99812296/165871446-b368f0df-e81d-440b-8ff5-2a61fcd34921.png" width="750"/>
+</div>
+
+- ## **Componentes**
 
 1. Sensor ultrasonico (+protoboard & +arduino)
 
-  <img src="file:///C:/Users/digof/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Captura%20de%20tela%202022-04-28%20221239.png" alt="drawing" width="500"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99812296/165871446-b368f0df-e81d-440b-8ff5-2a61fcd34921.png" width="750"/>
+</div>
  
 2. Placa de LCD (+protoboard & +arduino)
