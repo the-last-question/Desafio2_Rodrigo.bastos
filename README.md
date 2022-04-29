@@ -4,6 +4,6 @@
 
 1. Sensor ultrasonico (+protoboard & +arduino)
 
-  <img src="https://www.tinkercad.com/things/6wpS336kWWO-desafio2rodrigo" alt="drawing" width="500"/>
+  <img src="![image](https://user-images.githubusercontent.com/99812296/165870611-ef182c59-08e7-4349-9a30-1d3bc741ba86.png)" alt="drawing" width="500"/>
  
 2. Placa de LCD (+protoboard & +arduino)
