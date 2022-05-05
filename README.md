@@ -29,7 +29,7 @@ Acesse o [desafio 2](https://www.tinkercad.com/things/6wpS336kWWO).
 <img src="https://user-images.githubusercontent.com/99812296/165872214-5c897a03-1622-41a5-aa97-29c23e3dbeee.png" width="750"/>
 </div>
  
- - ## **ESQUEMÁTICO** :
+ - ## **esquemático** :
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/99812296/165873452-3f48a92b-4979-424b-b482-9007e53e4622.png" width="750"/>
