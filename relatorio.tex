@@ -70,31 +70,53 @@ rodrigo.bastos@aln.senaicimatec.edu.br}
 \maketitle
 
 \begin{abstract}
-O trabalho desenvolvido consiste de um sistema com 2 arduinos UNO
+ O trabalho desenvolvido consiste de um sistema com 2 arduinos UNO
 , um com um sensor ultrassônico e outro com um painel LCD. O proposto era 
 realizar uma conexão serial entre os arduinos e imprimir a informação da distancia medida
 pelo sensor no painel LCD.
 \end{abstract}
 
 \begin{IEEEkeywords}
-component, formatting, style, styling, insert
+Sistema embarcado, Arduino, Conexão serial, Sensor ultrassônico.
 \end{IEEEkeywords}
 
-\section{Introduction}
+\section{Introdução}
 This document is a model and instructions for \LaTeX.
 Please observe the conference page limits. 
 
-\section{Ease of Use}
+\section{Objetivos}
 
-\subsection{Maintaining the Integrity of the Specifications}
+\subsection{Objetivo geral}
 
-The IEEEtran class file is used to format your paper and style the text. All margins, 
-column widths, line spaces, and text fonts are prescribed; please do not 
-alter them. You may note peculiarities. For example, the head margin
-measures proportionately more than is customary. This measurement 
-and others are deliberate, using specifications that anticipate your paper 
-as one part of the entire proceedings, and not as an independent document. 
-Please do not revise any of the current designations.
+O objetivo desse desenvolvimento é montar um sistema embarcado que use um sensor ultrassonico para enviar uma string
+contendo o valor da distância marcada pelo sensor e envie esse dado para um receptor que disponibilize essa informação 
+num display.
+
+\subsection{Objetivo específico}
+    \begin{itemize}
+    \item Montar a conexão para o sensor ultrassônico (HC-SR04);
+    \item Montar a conexão para o display (LCD-16x2); 
+    \item Montar uma conexão serial entre dois arduinos UNO;
+    \item No sensor ultrassônico, separar as distâncias em três regiões (verde, amarelo, vermelho) sendo (longe, médio, perto) respectivamente;
+    usar LEDs ou LED (rgb) para representar as regiões;
+    \item representar as distâncias obtidas pelo sensor no display LCD.
+    \end{itemize}
+
+\section{Materiais}
+
+\section{Médotos}
+
+\subsection{conexões}
+
+\subsection{código}
+
+\section{Simulação}
+
+\section{Resultados}
+
+\section{Conclusão}
+
+\section*{Referências}
 
 \section{Prepare Your Paper Before Styling}
 Before you begin to format your paper, first write and save the content as a 
@@ -242,9 +264,9 @@ copy& More table copy$^{\mathrm{a}}$& &  \\
 \end{center}
 \end{table}
 
-\begin{figure}[htbp]
+\begin{figure}[h]
 \centerline{
-    \includegraphics{images/fig1.png}
+    \includegraphics[width=0.5\textwidth]{esquematico.png}
     }
 \caption{Example of a figure caption.}
 \label{fig}
