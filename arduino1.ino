@@ -17,6 +17,7 @@ int vermelho = 7;
 
 float distance;
 
+
 void verdeLed()
 {
   digitalWrite(verde,HIGH);
@@ -64,7 +65,7 @@ void loop()
   
  distance =  pulseIn(echo, HIGH);
  distance = distance / 58;
- delay(3000);
+ delay(2000);
   
   if(distance >= 3 && distance < 110)
    vermelhoLed(); 
@@ -74,13 +75,14 @@ void loop()
 
   else if(distance>220)
    verdeLed(); 
-  
+ 
+ String stringOne = String(distance, 3);
+    
  Serial.print("distance: ");
- Serial.print(distance); 
+ Serial.print(String(distance, 3)); 
  Serial.println(" cm");
 	
 }
 //conectar cabos do Lcd
 //fazer a conexão entre arduino1 e arduino2
 //passar os dados obtidos no sensor HC-SR04 para o arduino2
-

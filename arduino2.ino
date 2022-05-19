@@ -20,8 +20,8 @@ void loop()
     delay(100);
     distancia = Serial.readString();
     Serial.flush();
-    lcd.print(distancia); 
-    delay(3000);
+    lcd.print(distancia);
+    delay(2000);
     lcd.clear();
   }    
 }
