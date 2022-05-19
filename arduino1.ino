@@ -65,7 +65,7 @@ void loop()
   
  distance =  pulseIn(echo, HIGH);
  distance = distance / 58;
- delay(2000);
+ delay(1500);
   
   if(distance >= 3 && distance < 110)
    vermelhoLed(); 

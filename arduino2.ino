@@ -17,11 +17,10 @@ void loop()
 {
   if(Serial.available())
   { 	
-    delay(100);
     distancia = Serial.readString();
     Serial.flush();
     lcd.print(distancia);
-    delay(2000);
+    delay(1500);
     lcd.clear();
   }    
 }
