@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.18)  19 MAY 2022 14:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.19)  19 MAY 2022 16:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -189,7 +189,18 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
+)) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count278
+\c@ALC@line=\count279
+\c@ALC@rem=\count280
+\c@ALC@depth=\count281
+\ALC@tlm=\skip53
+\algorithmicindent=\skip54
+)
 
 ! LaTeX Error: File `mathitem.sty' not found.
 
@@ -197,20 +208,20 @@ Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
 
 Enter file name: 
-./relatorio.tex:12: Emergency stop.
+./relatorio.tex:13: Emergency stop.
 <read *> 
          
-l.12 \usepackage
-                {algorithmic}^^M
+l.13 \usepackage
+                {graphicx}^^M
 *** (cannot \read from terminal in nonstop modes)
 
  
 Here is how much of TeX's memory you used:
- 2804 strings out of 478287
- 43494 string characters out of 5849289
- 331196 words of memory out of 5000000
- 21040 multiletter control sequences out of 15000+600000
+ 2985 strings out of 478287
+ 46297 string characters out of 5849289
+ 335428 words of memory out of 5000000
+ 21214 multiletter control sequences out of 15000+600000
  490329 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,1n,62p,228b,152s stack positions out of 5000i,500n,10000p,200000b,80000s
-./relatorio.tex:12:  ==> Fatal error occurred, no output PDF file produced!
+./relatorio.tex:13:  ==> Fatal error occurred, no output PDF file produced!
