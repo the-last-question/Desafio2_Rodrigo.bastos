@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.19)  19 MAY 2022 16:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.19)  24 MAY 2022 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -200,28 +200,253 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 \c@ALC@depth=\count281
 \ALC@tlm=\skip53
 \algorithmicindent=\skip54
+) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen173
+\ar@mcellbox=\box54
+\extrarowheight=\dimen174
+\NC@list=\toks23
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box55
+) (/usr/share/texlive/texmf-dist/tex/latex/dblfloatfix/dblfloatfix.sty
+Package: dblfloatfix 2012/12/31 v1.0a (JAW)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 )
+\@dblbotnum=\count282
+\c@dblbotnumber=\count283
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count284
+\l__pdf_internal_box=\box56
+))
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count285
+\l__lipsum_a_int=\count286
+\l__lipsum_b_int=\count287
+ (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count288
+\lst@gtempboxa=\box57
+\lst@token=\toks24
+\lst@length=\count289
+\lst@currlwidth=\dimen175
+\lst@column=\count290
+\lst@pos=\count291
+\lst@lostspace=\dimen176
+\lst@width=\dimen177
+\lst@newlines=\count292
+\lst@lineno=\count293
+\lst@maxwidth=\dimen178
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count294
+\lst@skipnumbers=\count295
+\lst@framebox=\box58
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+No file relatorio.aux.
+\openout1 = `relatorio.aux'.
 
-! LaTeX Error: File `mathitem.sty' not found.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+-- Lines per column: 56 (exact).
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count296
+\scratchdimen=\dimen179
+\scratchbox=\box59
+\nofMPsegments=\count297
+\nofMParguments=\count298
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count299
+\MPscratchDim=\dimen180
+\MPnumerator=\count300
+\makeMPintoPDFobject=\count301
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\c@lstlisting=\count302
+LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 70.
+</home/rod/images/1AC01-9-1-min.jpg, id=1, 451.6875pt x 451.6875pt>
+File: /home/rod/images/1AC01-9-1-min.jpg Graphic file (type jpg)
+<use /home/rod/images/1AC01-9-1-min.jpg>
+Package pdftex.def Info: /home/rod/images/1AC01-9-1-min.jpg  used on input line 89.
+(pdftex.def)             Requested size: 258.0pt x 258.01591pt.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+Underfull \vbox (badness 3907) has occurred while \output is active []
 
-Enter file name: 
-./relatorio.tex:13: Emergency stop.
-<read *> 
-         
-l.13 \usepackage
-                {graphicx}^^M
-*** (cannot \read from terminal in nonstop modes)
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- 
+
+ </home/rod/images/1AC01-9-1-min.jpg>]
+
+LaTeX Warning: Reference `AA' on page 2 undefined on input line 158.
+
+
+LaTeX Warning: Reference `SCM' on page 2 undefined on input line 158.
+
+
+LaTeX Warning: Reference `eq' on page 2 undefined on input line 192.
+
+
+LaTeX Warning: Reference `eq' on page 2 undefined on input line 192.
+
+
+LaTeX Warning: Reference `eq' on page 2 undefined on input line 192.
+
+
+LaTeX Warning: Reference `eq' on page 2 undefined on input line 193.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 197.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [2]
+
+LaTeX Warning: Citation `young1989technical' on page 3 undefined on input line 246.
+
+
+LaTeX Warning: Reference `fig' on page 3 undefined on input line 282.
+
+<esquematico.png, id=18, 752.8125pt x 603.0028pt>
+File: esquematico.png Graphic file (type png)
+<use esquematico.png>
+Package pdftex.def Info: esquematico.png  used on input line 304.
+(pdftex.def)             Requested size: 258.0pt x 206.66522pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 315.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 315.
+
+
+LaTeX Warning: Citation `eason1955certain' on page 3 undefined on input line 326.
+
+
+LaTeX Warning: Citation `clerk1892maxwell' on page 3 undefined on input line 327.
+
+
+LaTeX Warning: Citation `jacobs1963fine' on page 3 undefined on input line 327.
+
+
+LaTeX Warning: Citation `jacobs1963fine' on page 3 undefined on input line 327.
+
+
+LaTeX Warning: Citation `jacobs1963fine' on page 3 undefined on input line 327.
+
+
+LaTeX Warning: Citation `jacobs1963fine' on page 3 undefined on input line 328.
+
+[3]
+
+LaTeX Warning: Citation `nicoletitle' on page 4 undefined on input line 336.
+
+
+LaTeX Warning: Citation `elissatitle' on page 4 undefined on input line 337.
+
+
+LaTeX Warning: Citation `yorozu1987electron' on page 4 undefined on input line 342.
+
+No file relatorio.bbl.
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[4
+
+ <./esquematico.png>] (./relatorio.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2985 strings out of 478287
- 46297 string characters out of 5849289
- 335428 words of memory out of 5000000
- 21214 multiletter control sequences out of 15000+600000
- 490329 words of font info for 68 fonts, out of 8000000 for 9000
+ 6305 strings out of 478287
+ 101245 string characters out of 5849289
+ 684372 words of memory out of 5000000
+ 24411 multiletter control sequences out of 15000+600000
+ 517193 words of font info for 121 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,1n,62p,228b,152s stack positions out of 5000i,500n,10000p,200000b,80000s
-./relatorio.tex:13:  ==> Fatal error occurred, no output PDF file produced!
+ 68i,11n,77p,580b,305s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on relatorio.pdf (4 pages, 238372 bytes).
+PDF statistics:
+ 77 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

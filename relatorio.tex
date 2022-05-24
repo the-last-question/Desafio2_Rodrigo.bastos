@@ -9,7 +9,6 @@
 \DeclareGraphicsExtensions{.pdf,.jpeg,.png,.jpg}
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{algorithmic}
-\usepackage{mathitem}
 \usepackage{graphicx}
 \usepackage{textcomp}
 \usepackage{array}
@@ -52,7 +51,7 @@
 \begin{document}
 
 \title{Arduino UNO, leitura e impressão de distâncias usando um sensor ultrassônico\\
-{\footnotesize \textsuperscript{*} Sistemas Embarcados: Doc. Rodrigo Freire Bastos - rodrigo.bastos@aln.senaicimatec.edu.br}
+{\footnotesize \textsuperscript{*} Sistemas Embarcados: Prof. Marco Reis - marco.reis@ba.docente.senai.br}
 \thanks{Identify applicable funding agency here. If none, delete this.}
 }
 
@@ -87,15 +86,14 @@ por estudantes de engenharia, um arduino UNO possui portas analógicas e digitai
 a linguagem C++ em seus códigos. 
 
 \begin{figure}[htbp]
-    \centerline{\includegraphics[width=0.5\textwidth]{Screenshot from 2022-05-19 16-27-17.png}}
-    \caption{Example of a figure caption.}
+    \centerline{\includegraphics[width=0.5\textwidth]{/home/rod/images/1AC01-9-1-min.jpg}}
+    \caption{Arduino UNO R3}
     \label{fig}
     \end{figure}
 
 \section{Objetivos}
 
 \subsection{Objetivo geral}
-
 O objetivo desse desenvolvimento é montar um sistema embarcado que use um sensor ultrassonico para enviar uma string
 contendo o valor da distância marcada pelo sensor e envie esse dado para um receptor que disponibilize essa informação 
 num display.
@@ -118,36 +116,41 @@ num display.
      \item Placa LCD 16x2;
      \item Sensor de distância ultrassônico (HC-SR04);
      \item LED RGB;
-
- \begin{mathitem}
-     \item Resistor de 1K\Omega;
- \end{mathitem}     
- \begin{mathitem}
-     \item Resistor de 220\Omega;
- \end{mathitem}
- \begin{mathitem}
-     \item Resistor de 120\Omega;
- \end{mathitem}
-
+     \item Resistor de $ 1K\Omega $;
+     \item Resistor de $ 220\Omega $;
+     \item Resistor de $ 120\Omega $;
     \item Cabos para conexão;
     \item BreadBoard.
  \end{itemize}
 
-\section{Médotos}
-
+\section{Metodologia}
+ A atividade desenvolvida foi realizada com conhecimentos prévios sobre C++ e eletrônica básica em Arduinos, porém, para sanar as dúvidas e dificuldades encontradas no
+ desenvolvimento da atividade foram utilizadas documentações de bibliotecas no site (1)
 \subsection{Procedimento experimental}
 colocar todo o passo a passo das conexões e codigos feitos.
+
 \subsection{código}
 
 \section{Simulação}
-kaka
+ A simulação feita na plataforma TinkerCad foi realizada com exito, e assim, não foi necessário desenvolver o sistema de forma física.
+ 
+ Tanto as conexões quanto os códigos foram executados e assim foi possível ler uma distância com o sensor ultrassônico, passar essa informação para um segundo arduino
+ e mostrar essa distância num LCD conectado ao segundo arduino.
+
 \section{Resultados}
+ Ao concluir as conexões e códigos percebeu-se que só era possível ler e imprimir a informação passada de um arduino para outro caso houvesse um delay de ao menos 3 segundos
+ entre cada envio de informação, dessa maneira o sistema não ficou muito otimizado, visto que, são necessários ao menos 3 segundos para executar sua função, e, por conta
+ do delay do sistema a LED RGB também ficou com um certo delay para mudar de cor. Por outro lado, o sistema desenvolvido consegue ler corretamente as distâncias em cm 
+ , identificar em qual região ela pertence e por consequência alertar a proximidade do objeto de com uma LED RGB inserida no sistema e também informar a disância do objeto
+ em um LCD conectado no segundo arduino por meio de uma conexão serial.
 
 \section{Conclusão}
-
+ 
 \section*{Referências}
 
-aaaaaaa
+*referenciar www.arduino.cc
+
+
 
 \section{Prepare Your Paper Before Styling}
 Before you begin to format your paper, first write and save the content as a 
