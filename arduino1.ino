@@ -18,6 +18,7 @@ int vermelho = 7;
 float distance;
 
 
+
 void verdeLed()
 {
   digitalWrite(verde,HIGH);
