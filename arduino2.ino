@@ -12,7 +12,7 @@ void setup()
   lcd.begin(16,2);
   Serial.begin(9600);
 }
-
+ 
 void loop()
 {
   if(Serial.available())

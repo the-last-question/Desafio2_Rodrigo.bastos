@@ -10,7 +10,7 @@
 
 const int trigger = 12;
 const int echo = 13;
-
+ 
 int verde = 5;
 int azul = 6;
 int vermelho = 7;
