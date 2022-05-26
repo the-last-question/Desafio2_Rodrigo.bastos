@@ -86,12 +86,11 @@ por estudantes de engenharia, um arduino UNO possui portas analógicas e digitai
 a linguagem C++ em seus códigos. 
 
 \begin{figure}[htbp]
-    \centerline{\includegraphics[width=0.5\textwidth]{/home/rod/images/1AC01-9-1-min.jpg}}
+    \centerline{\includegraphics[width=0.4\textwidth]{/home/rod/images/1AC01-9-1-min.jpg}}
     \caption{Arduino UNO R3}
     \label{fig}
     \end{figure}
-
-\section{Objetivos}
+\section*{Desenvolvimento}
 
 \subsection{Objetivo geral}
 O objetivo desse desenvolvimento é montar um sistema embarcado que use um sensor ultrassonico para enviar uma string
@@ -107,8 +106,6 @@ num display.
     usar LEDs ou LED (rgb) para representar as regiões;
     \item representar as distâncias obtidas pelo sensor no display LCD.
     \end{itemize}
-
-\section*{fundamentação teórica}
  
 \section{Materiais}
  \begin{itemize}
@@ -123,20 +120,43 @@ num display.
     \item BreadBoard.
  \end{itemize}
 
-\section{Metodologia}
- A atividade desenvolvida foi realizada com conhecimentos prévios sobre C++ e eletrônica básica em Arduinos, porém, para sanar as dúvidas e dificuldades encontradas no
- desenvolvimento da atividade foram utilizadas documentações de bibliotecas no site (1)
-\subsection{Procedimento experimental}
-colocar todo o passo a passo das conexões e codigos feitos.
+\subsection{Construção}
+A construção do desafio foi dividida em duas partes, hardware e software. 
 
-\section*{Código}
- 
+A construção do hardware começou com o cabeamento do sensor ultrassônico, que possui 4 portas: VCC e GND (para
+energizar o sensor) e Trigger e Echo (para enviar e receber dados de distâncias, respectivamente). Da mesma maneira,
+foi conectado um LED rgb que possui 4 portas: red (vermelho), green (verde), blue (azul) e GND. Além do display LCD (16x2)
+que para conexão, são 16 pinos, dos quais usamos 12 para uma conexão básica, já incluindo as conexões de alimentação (pinos 1 e 2),
+ backlight (pinos 15 e 16) e contraste (pino 3).
 
-\section{Simulação}
+ \begin{figure}[htbp]
+    \centerline{\includegraphics[width=0.4\textwidth]{/home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-05-10.png}}
+    \caption{Sensor ultrassônico (HC-SR04)}
+    \label{fig}
+    \end{figure}
+
+    \begin{figure}[htbp]
+        \centerline{\includegraphics[width=0.2\textwidth]{/home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-00-02.jpg}}
+        \caption{LED RGB}
+        \label{fig}
+        \end{figure}
+
+        \begin{figure}[htbp]
+            \centerline{\includegraphics[width=0.4\textwidth]{/home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-07-15.png}}
+            \caption{LCD (16x2)}
+            \label{fig}
+            \end{figure}
+
+\subsection{Simulação}
  A simulação feita na plataforma TinkerCad foi realizada com exito, e assim, não foi necessário desenvolver o sistema de forma física.
  
  Tanto as conexões quanto os códigos foram executados e assim foi possível ler uma distância com o sensor ultrassônico, passar essa informação para um segundo arduino
  e mostrar essa distância num LCD conectado ao segundo arduino.
+
+\section{Metodologia}
+ A atividade desenvolvida foi realizada com conhecimentos prévios sobre C++ e eletrônica básica em Arduinos, porém, para sanar as dúvidas e dificuldades encontradas no
+ desenvolvimento da atividade foram utilizadas documentações de bibliotecas no site (1), e para realizar todo experimento foi utilizada a plataforma Tinkercad, que é
+ muito bem otimizada além de ser gratuita e ser capaz de realizar simulações.
 
 \section{Resultados}
  Ao concluir as conexões e códigos percebeu-se que só era possível ler e imprimir a informação passada de um arduino para outro caso houvesse um delay de ao menos 3 segundos
@@ -148,6 +168,8 @@ colocar todo o passo a passo das conexões e codigos feitos.
 \section*{Referências}
 
 *referenciar www.arduino.cc
+
+* referenciar https://www.filipeflop.com/blog/como-utilizar-o-display-lcd-16x2/
 
 
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.19)  24 MAY 2022 16:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.19)  25 MAY 2022 22:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -334,85 +334,26 @@ File: /home/rod/images/1AC01-9-1-min.jpg Graphic file (type jpg)
 <use /home/rod/images/1AC01-9-1-min.jpg>
 Package pdftex.def Info: /home/rod/images/1AC01-9-1-min.jpg  used on input line 89.
 (pdftex.def)             Requested size: 258.0pt x 258.01591pt.
-
-Underfull \vbox (badness 3907) has occurred while \output is active []
-
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
  </home/rod/images/1AC01-9-1-min.jpg>]
+</home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-05-10.png, id=14, 365.365pt x 281.05pt>
+File: /home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-05-10.png Graphic file (type png)
+<use /home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-05-10.png>
+Package pdftex.def Info: /home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-05-10.png  used on input line 133.
+(pdftex.def)             Requested size: 206.39685pt x 158.7678pt.
+</home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-00-02.jpg, id=16, 223.83624pt x 186.6975pt>
+File: /home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-00-02.jpg Graphic file (type jpg)
+<use /home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-00-02.jpg>
+Package pdftex.def Info: /home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-00-02.jpg  used on input line 139.
+(pdftex.def)             Requested size: 103.19843pt x 86.07845pt.
+</home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-07-15.png, id=17, 608.2725pt x 391.4625pt>
+File: /home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-07-15.png Graphic file (type png)
+<use /home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-07-15.png>
+Package pdftex.def Info: /home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-07-15.png  used on input line 145.
+(pdftex.def)             Requested size: 206.39685pt x 132.82669pt.
 
-LaTeX Warning: Reference `AA' on page 2 undefined on input line 158.
-
-
-LaTeX Warning: Reference `SCM' on page 2 undefined on input line 158.
-
-
-LaTeX Warning: Reference `eq' on page 2 undefined on input line 192.
-
-
-LaTeX Warning: Reference `eq' on page 2 undefined on input line 192.
-
-
-LaTeX Warning: Reference `eq' on page 2 undefined on input line 192.
-
-
-LaTeX Warning: Reference `eq' on page 2 undefined on input line 193.
-
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 197.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [2]
-
-LaTeX Warning: Citation `young1989technical' on page 3 undefined on input line 246.
-
-
-LaTeX Warning: Reference `fig' on page 3 undefined on input line 282.
-
-<esquematico.png, id=18, 752.8125pt x 603.0028pt>
-File: esquematico.png Graphic file (type png)
-<use esquematico.png>
-Package pdftex.def Info: esquematico.png  used on input line 304.
-(pdftex.def)             Requested size: 258.0pt x 206.66522pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 315.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 315.
-
-
-LaTeX Warning: Citation `eason1955certain' on page 3 undefined on input line 326.
-
-
-LaTeX Warning: Citation `clerk1892maxwell' on page 3 undefined on input line 327.
-
-
-LaTeX Warning: Citation `jacobs1963fine' on page 3 undefined on input line 327.
-
-
-LaTeX Warning: Citation `jacobs1963fine' on page 3 undefined on input line 327.
-
-
-LaTeX Warning: Citation `jacobs1963fine' on page 3 undefined on input line 327.
-
-
-LaTeX Warning: Citation `jacobs1963fine' on page 3 undefined on input line 328.
-
-[3]
-
-LaTeX Warning: Citation `nicoletitle' on page 4 undefined on input line 336.
-
-
-LaTeX Warning: Citation `elissatitle' on page 4 undefined on input line 337.
-
-
-LaTeX Warning: Citation `yorozu1987electron' on page 4 undefined on input line 342.
-
-No file relatorio.bbl.
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -424,29 +365,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4
-
- <./esquematico.png>] (./relatorio.aux)
-
-LaTeX Warning: There were undefined references.
-
+[2 </home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-05-10.png> </home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-00-02.jpg> </home/rod/Pictures/Screenshots/Screenshot from 2022-05-25 22-07-15.png>] (./relatorio.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 6305 strings out of 478287
- 101245 string characters out of 5849289
- 684372 words of memory out of 5000000
- 24411 multiletter control sequences out of 15000+600000
- 517193 words of font info for 121 fonts, out of 8000000 for 9000
+ 6242 strings out of 478287
+ 101513 string characters out of 5849289
+ 678372 words of memory out of 5000000
+ 24360 multiletter control sequences out of 15000+600000
+ 509430 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,77p,580b,305s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on relatorio.pdf (4 pages, 238372 bytes).
+ 68i,11n,77p,238b,305s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on relatorio.pdf (2 pages, 197519 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
