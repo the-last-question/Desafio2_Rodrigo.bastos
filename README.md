@@ -20,7 +20,7 @@ Acesse o [desafio 2](https://www.tinkercad.com/things/6wpS336kWWO).
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/99812296/165871446-b368f0df-e81d-440b-8ff5-2a61fcd34921.png" width="750"/>
+<img src="https://user-images.githubusercontent.com/99812296/165871446-b368f0df-e81d-440b-8ff5-2a61fcd34921.png" width="500"/>
 </div>
 
 - ## **Componentes**
